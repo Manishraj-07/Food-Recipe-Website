@@ -1,7 +1,7 @@
 # Food Recipe Website
 
 ## Overview
-This project is a dynamic Food Recipe Website built using React JS for the frontend and Node.js/Express for the backend. It allows users to search for food recipes using a simple and intuitive interface. The application connects to a recipe API through the backend server to fetch and display detailed recipe information.
+This project is a dynamic Food Recipe Website built using React.js for the frontend and Node.js/Express for the backend. It allows users to search for food recipes using a simple and intuitive interface. The application connects to a recipe API through the backend server to fetch and display detailed recipe information.
 
 ## Features
 - **Search Functionality**: Users can search for recipes by entering keywords in the search box
@@ -17,7 +17,7 @@ This project is a dynamic Food Recipe Website built using React JS for the front
 - **HTTP Client**: Axios for API requests
 
 ## Application Structure
-- **Assets**: Contain Screenshot of Hompage and Recipes
+- **Assets**: Contain Screenshots of the Homepage and Recipes
 - **Frontend**: Contains React components, styling, and user interface logic
 - **Backend**: Express server that handles API requests and data formatting
 
@@ -65,4 +65,3 @@ This project is a dynamic Food Recipe Website built using React JS for the front
 ![Recipes](Assets/images/Recipes.png)
 ## Credits
 - Recipe data provided by [TheMealDB API](https://www.themealdb.com/api.php)
-- Background image from Unsplash
