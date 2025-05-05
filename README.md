@@ -23,27 +23,19 @@ This project is a dynamic Food Recipe Website built using React.js for the front
 
 ## Setup and Installation
 1. Clone the repository
-2. Install backend dependencies:
+2. Install **Backend** dependencies and start the server: Open a new Terminal
    ```
    cd backend
-   npm install
+   npm init -y
+   npm install express axios cors
+   node index.js
    ```
-3. Install frontend dependencies:
-   ```
-   cd frontend
-   npm install
-   ```
-4. Start the backend server:
-   ```
-   cd backend
-   npm start
-   ```
-5. Start the frontend development server:
+3. Install **Frontend** dependencies and start the server: Open a new Terminal
    ```
    cd frontend
    npm start
    ```
-6. Access the application at `http://localhost:3000`
+4. Access the application at `http://localhost:3000`
 
 ## Application Flow
 1. User enters a recipe search term and submits
