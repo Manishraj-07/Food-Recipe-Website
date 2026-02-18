@@ -1,0 +1,10 @@
+{
+  "name": "food-recipe-website",
+  "version": "1.0.0",
+  "description": "Food Recipe Website",
+  "scripts": {
+    "install:backend": "cd backend && npm install",
+    "start": "cd backend && node index.js",
+    "build": "npm run install:backend"
+  }
+}

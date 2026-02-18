@@ -1,0 +1,25 @@
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+
+# Build folders
+frontend/build/
+frontend/dist/
+backend/dist/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE-specific folders
+.vscode/
+
+# OS-specific
+*.swp
